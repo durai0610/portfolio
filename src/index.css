@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  @apply bg-dark text-gray-200 scroll-smooth;
+}
+
+* {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 0.3px;
+}
+
+/* Smooth modern look */
+p {
+  line-height: 1.7;
+}
+
+.heading-gradient {
+  background: linear-gradient(90deg, #38bdf8, #60a5fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
