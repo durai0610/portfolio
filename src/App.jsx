@@ -10,6 +10,7 @@ import Contact from "./components/Contact";
 import Loader from "./components/Loader";
 import FamilyCreation from "./components/FamilyCreation";
 import Revit3D from "./components/Revit3D";
+import MEPCoordination from "./components/MEPCoordination";
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
       <Projects />
       <FamilyCreation />
       <Revit3D />
+      <MEPCoordination />
       <Education />
       <Certification />
       <Contact />

@@ -1,12 +1,14 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
+
 const links = [
   { id: "about", label: "About" },
   { id: "skills", label: "Skills" },
   { id: "projects", label: "Projects" },
   { id: "family", label: "Family Creation" },
   { id: "revit3d", label: "3D Modelling" },
+  { id: "mep", label: "MEP Coordination" },
   { id: "education", label: "Education" },
   { id: "contact", label: "Contact" },
 ];

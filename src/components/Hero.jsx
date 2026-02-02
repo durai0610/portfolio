@@ -45,7 +45,7 @@ const Hero = () => {
 
           <div className="mt-8 flex justify-center md:justify-start gap-4 flex-wrap">
             <a
-              href="/resume.pdf"
+              href="/esakki-muthu-resume.pdf"
               download
               className="
                 px-6 py-3 

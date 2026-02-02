@@ -19,6 +19,11 @@ const models = [
     img: "/3d/hvac-water-cooled.png",
     desc: "Water-cooled HVAC system model with chilled water supply and return connections."
   },
+  {
+    title: "Electrical Connection – 3D Model",
+    img: "/3d/electrical-connection.png",
+    desc: "3D electrical routing model created in Revit showing cable tray and conduit coordination."
+  }
 ];
 
 const Revit3D = () => {

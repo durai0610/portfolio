@@ -17,7 +17,7 @@ const Loader = () => {
           Esakki Muthu
         </motion.h1>
         <p className="text-gray-400 mt-2 tracking-widest">
-          ELECTRICAL PORTFOLIO
+          ELECTRICAL DESIGN AND MEP MODELLING
         </p>
       </motion.div>
     </div>
